@@ -1,0 +1,4 @@
+package com.example.holofyapp.di.module
+
+class AppModule {
+}
